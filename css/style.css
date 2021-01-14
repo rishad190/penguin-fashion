@@ -1,0 +1,86 @@
+a,
+p,
+h3,
+.btn {
+  font-family: "Roboto", sans-serif;
+}
+h1,
+h4,
+h2 {
+  font-family: "Bebas Neue", cursive;
+}
+
+header {
+  background-color: #fffbf0;
+}
+
+.nav-logo img {
+  width: 60%;
+}
+
+.nav-margin a {
+  font-size: 16px;
+}
+
+/* slider-image */
+.slider-img img {
+  width: 100%;
+}
+.headertext-info h1 {
+  font-size: 70px;
+}
+h2 span,
+.headertext-info span {
+  color: #fabe4c;
+  font-weight: 800;
+}
+
+/* card-all */
+
+.cardimages {
+  height: 90%;
+}
+
+.btn-all {
+  width: 170px;
+  height: 60px;
+  background-color: #a4bc46;
+  color: white;
+  padding-top: 15px;
+}
+.cardimages img {
+  background-color: #f1f1f1;
+
+  height: 300px;
+  border-radius: 1rem;
+}
+.card-footer {
+  border: 0;
+  background-color: white;
+}
+.cardcolor {
+  color: #363958;
+  font-weight: 800;
+}
+.bodycard {
+  padding-bottom: 0;
+}
+
+/* smallbox */
+.smallbox img {
+  width: 20%;
+  margin-right: 10px;
+}
+.smallboximg img {
+  width: 100%;
+}
+
+/* contact-us */
+.contact {
+  margin-top: 100px;
+
+  background: linear-gradient(to right, #2193b0, #6dd5ed);
+}
+.contactbox {
+  height: 700px;
+}
